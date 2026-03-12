@@ -1,0 +1,12 @@
+body {
+    background-image: url(/image/ani/rain.gif), url(/image/Stars_Background_Black.png);
+    scrollbar-color: purple;
+}
+.topbar {
+    color: antiquewhite;
+    background-color: azure;
+    position: relative;
+    width: 40%;
+    left: 30%;
+    
+}
